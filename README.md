@@ -19,4 +19,6 @@ Tailored to meet the unique needs of Pierogarnia Klamerka, the website features 
 ### Technologies Used:
 Leveraging HTML, CSS, and JavaScript, among other cutting-edge web technologies, I developed a robust and scalable solution that adheres to modern web standards.
 
+
+
 Exploring the Pierogarnia Klamerka website provides insight into my journey as a developer, capturing the essence of my first foray into the world of commercial web development. This project symbolizes my commitment to delivering high-quality web solutions that leave a lasting impression.
